@@ -1,3 +1,3 @@
 # hello-world
 just new repository
-this is firdt try on gitbuh from myself
+this is first try on github for myself
